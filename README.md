@@ -43,6 +43,8 @@ To use the Keynote themes:
 1. Navigate to the `Catppuccin` subfolder and download the desired `.kth` file.
 2. Double-click the downloaded file to install and use the theme in your Keynote presentations.
 
+__Note:__ The Catppuccin color palette is available as an Apple Color List (.clr) at [catppuccin/palette](https://github.com/catppuccin/palette). You can add it to macOS’s color picker for consistency across applications.
+
 ## 💝 Thanks to
 
 - [Stevin Wilson](https://github.com/catppuccin)
