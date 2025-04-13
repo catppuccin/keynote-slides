@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/stevin-wilson/keynote-slides">Apply Keynote Slides</a>
+	Catppuccin for <a href="https://github.com/stevin-wilson/keynote-slides">Apple Keynote Slides</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -11,8 +11,6 @@
 	<a href="https://github.com/stevin-wilson/keynote-slides/contributors"><img src="https://img.shields.io/github/contributors/stevin-wilson/keynote-slides?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-## Keynote Themes
-
 <p align="center">
 	<img src="assets/preview.webp"/>
 </p>
@@ -21,26 +19,26 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.png"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.png"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.png"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.png"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
 To use the Keynote themes:
 
-1. Navigate to the `Catppuccin` subfolder and download the desired `.kth` file.
+1. Navigate to the `themes` subfolder and download the desired `.kth` file.
 2. Double-click the downloaded file to install and use the theme in your Keynote presentations.
 
 __Note:__ The Catppuccin color palette is available as an Apple Color List (.clr) at [catppuccin/palette](https://github.com/catppuccin/palette). You can add it to macOS’s color picker for consistency across applications.
