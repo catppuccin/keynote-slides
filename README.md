@@ -46,7 +46,7 @@ To use the Keynote themes:
 
 ## 💝 Thanks to
 
-- [Stevin Wilson](https://github.com/catppuccin)
+- [Stevin Wilson](https://github.com/stevin-wilson)
 
 &nbsp;
 
