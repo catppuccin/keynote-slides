@@ -1,14 +1,14 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/stevin-wilson/keynote-slides">Apple Keynote Slides</a>
+	Catppuccin for <a href="https://www.apple.com/uk/keynote/">Apple Keynote Slides</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/stevin-wilson/keynote-slides/stargazers"><img src="https://img.shields.io/github/stars/stevin-wilson/keynote-slides?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/stevin-wilson/keynote-slides/issues"><img src="https://img.shields.io/github/issues/stevin-wilson/keynote-slides?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/stevin-wilson/keynote-slides/contributors"><img src="https://img.shields.io/github/contributors/stevin-wilson/keynote-slides?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/keynote-slides/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/keynote-slides?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/keynote-slides/issues"><img src="https://img.shields.io/github/issues/catppuccin/keynote-slides?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/keynote-slides/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/keynote-slides?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -41,7 +41,8 @@ To use the Keynote themes:
 1. Navigate to the `themes` subfolder and download the desired `.kth` file.
 2. Double-click the downloaded file to install and use the theme in your Keynote presentations.
 
-__Note:__ The Catppuccin color palette is available as an Apple Color List (.clr) at [catppuccin/palette](https://github.com/catppuccin/palette). You can add it to macOS’s color picker for consistency across applications.
+> [!NOTE]
+>  The Catppuccin color palette is available as an Apple Color List (.clr) at [catppuccin/palette](https://github.com/catppuccin/palette). You can add it to macOS’s color picker for consistency across applications.
 
 ## 💝 Thanks to
 
@@ -60,4 +61,3 @@ __Note:__ The Catppuccin color palette is available as an Apple Color List (.clr
 <p align="center">
 	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
-# keynote-slides
